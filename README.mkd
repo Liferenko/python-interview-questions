@@ -7,8 +7,22 @@ these questions for the same candidate.
 ## Descriptive/Vocabulary Questions
 
 1. What is Python?
+*Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.*
 
 1. Describe some features of Python.
+*Some of Python's notable features:
+
+- Simple. Feels almost like reading English, although very strict English!
+- Easy to Learn
+- High-level Language. Never need to bother about the low-level details such as managing the memory.
+- Portable. Almost all OSs.
+- Interpreted. Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it.
+- Object oriented. In procedure-oriented languages, the program is built around procedures or functions which are nothing but reusable pieces of programs. In object-oriented languages, the program is built around objects which combine data and functionality. "Get You a Man Who Can Do Both"
+- Extensible. Do C\C++ and use in Python if you need. 
+- Embeddable. Embed Python within your C/C++ programs to give 'scripting' capabilities.
+- Extensive Libraries. Say no more.
+
+<a href="https://www.ibiblio.org/g2swap/byteofpython/read/features-of-python.html">more</a>
 
 1. How does Python execute code?
 
