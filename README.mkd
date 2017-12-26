@@ -153,8 +153,12 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 <a href="https://stackoverflow.com/questions/464342/combining-two-sorted-lists-in-python">more</a>
 
-1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
+**1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?**
+Xreadlines!
 
+for line in open(thefilepath).xreadlines(  ): count += 1
+
+<a href="https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch04s07.html">more</a>
 
 
 
