@@ -143,8 +143,9 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 **1. How would you merge two sorted lists? They can be any length, or empty. **
 
-1) >>> l1.extend(l2)
-   >>> sorted(l1)
+1) >l1.extend(l2)
+
+   >sorted(l1)
    
 2) sorted(l1 + l2)
 
