@@ -6,10 +6,10 @@ these questions for the same candidate.
 
 ## Descriptive/Vocabulary Questions
 
-*1. What is Python?*
+**1. What is Python?**
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 
-*1. Describe some features of Python.*
+**1. Describe some features of Python.**
 Some of Python's notable features:
 
 - Simple. Feels almost like reading English, although very strict English!
@@ -24,7 +24,7 @@ Some of Python's notable features:
 
 <a href="https://www.ibiblio.org/g2swap/byteofpython/read/features-of-python.html">more</a>
 
-*1. How does Python execute code?*
+**1. How does Python execute code?**
 program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 <a href="https://www.safaribooksonline.com/library/view/head-first-programming/9780596806682/httpatomoreillycomsourceoreillyimages1754076.png.jpg"><img src="https://www.safaribooksonline.com/library/view/head-first-programming/9780596806682/httpatomoreillycomsourceoreillyimages1754076.png.jpg"></a>
@@ -54,8 +54,8 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 **1. What is inheritance?**
 
-**1. What happens if you have an error in an ''__init__'' statement?**
-If you have no ''__init__.py'' - your package can't be identified as package.
+**1. What happens if you have an error in an '__init__' statement?**
+If you have no '__init__.py' - your package can't be identified as package.
 If an error in class -  class can't be called in code.
 <a href="https://docs.python.org/2/reference/datamodel.html#object.__init__">more</a>
 
