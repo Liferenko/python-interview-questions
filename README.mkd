@@ -39,8 +39,9 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 <a href="https://docs.python.org/3/library/stdtypes.html#built-in-types">more</a>
 
-1. What are bindings, i.e., what does it mean for a value to be bound to a
-   variable?
+**1. What are bindings, i.e., what does it mean for a value to be bound to a variable?**
+   a ---> [1, 2] <--- b
+<a href="https://mathieularose.com/python-variables/">more</a>   
 
 ## Usage Questions
 
