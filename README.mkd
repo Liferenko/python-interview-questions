@@ -56,7 +56,11 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 1. What happens if you have an error in an __init__ statement? 
 
-1. What happens in python if you try to divide by zero?
+**1. What happens in python if you try to divide by zero?**
+
+In console you will find "ZeroDivisionError: division by zero".
+<a href="https://stackoverflow.com/questions/22085864/python-divide-by-0-error">more</a>
+
 
 1. How can you improve the following code?
 
@@ -71,7 +75,7 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
    Bonus points for mentioning `enumerate` and use of `str.format`.
 
-1. How can you return multiple values from a function/method?
+**1. How can you return multiple values from a function/method?**
 - Tuple
 - Oblect
 - List
