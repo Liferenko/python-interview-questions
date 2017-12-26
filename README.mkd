@@ -135,6 +135,15 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 1. How do you reverse a list? Can you come up with at least three ways? 
 
+- L.reverse()
+- L[::-1]   *(Slicing Operator)*
+- for o in reversed(L) *(individual reverse)*
+
+
+<a href="https://docs.python.org/2.0/ext/refcountsInPython.html">more</a>
+
+
+
 1. How would you merge two sorted lists? They can be any length, or empty. 
 
 1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
