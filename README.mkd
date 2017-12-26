@@ -44,13 +44,18 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 ## Usage Questions
 
-1. How do you create a list?
+**1. How do you create a list?**
 
-1. How do you create a dictionary?
+<a href="https://docs.python.org/3/tutorial/datastructures.html#more-on-lists"><img src="http://hackaholic.info/wp-content/uploads/2017/11/python-lists.jpg"></a>
+
+**1. How do you create a dictionary?**
+
+<a href="https://www.tutorialspoint.com/python/python_dictionary.html"><img src="http://www.kdjohar.in/media/blogs/2017/06/06/python-dictionary.jpg"></a>
+
 
 **1. What is a list comprehension? Why would you use one?**
-
-<a href="https://datasciencelab.wordpress.com/2014/01/08/list-comprehension-in-python/">more</a>
+ It can be used to construct lists in a very natural, easy way, like a mathematician is used to do.
+<a href="https://datasciencelab.wordpress.com/2014/01/08/list-comprehension-in-python/"><img src="https://datasciencelab.files.wordpress.com/2014/01/list1.jpg?w=830"></a>
 
 **1. What is an iterator?**
 
