@@ -6,10 +6,10 @@ these questions for the same candidate.
 
 ## Descriptive/Vocabulary Questions
 
-*1. What is Python?*
+**1. What is Python?**
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 
-*1. Describe some features of Python.*
+**1. Describe some features of Python.**
 Some of Python's notable features:
 
 - Simple. Feels almost like reading English, although very strict English!
@@ -29,7 +29,7 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 <a href="https://www.safaribooksonline.com/library/view/head-first-programming/9780596806682/httpatomoreillycomsourceoreillyimages1754076.png.jpg"><img src="https://www.safaribooksonline.com/library/view/head-first-programming/9780596806682/httpatomoreillycomsourceoreillyimages1754076.png.jpg"></a>
 
-*1. What are some built-in types in Python?*
+**1. What are some built-in types in Python?**
 - numerics
 - sequences
 - mappings
@@ -54,6 +54,8 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 **1. What is inheritance?**
 
+<a href="http://www.trytoprogram.com/python-programming/python-inheritance/"><img src="http://www.trytoprogram.com/images/python-inheritance.jpg"></a>
+
 **1. What happens if you have an error in an ''__init__'' statement?**
 If you have no ''__init__.py'' - your package can't be identified as package.
 If an error in class -  class can't be called in code.
@@ -64,6 +66,7 @@ If an error in class -  class can't be called in code.
 **1. What happens in python if you try to divide by zero?**
 
 In console you will find "ZeroDivisionError: division by zero".
+
 <a href="https://stackoverflow.com/questions/22085864/python-divide-by-0-error">more</a>
 
 
