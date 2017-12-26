@@ -48,7 +48,9 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 1. How do you create a dictionary?
 
-1. What is a list comprehension? Why would you use one?
+**1. What is a list comprehension? Why would you use one?**
+
+<a href="https://datasciencelab.wordpress.com/2014/01/08/list-comprehension-in-python/">more</a>
 
 **1. What is an iterator?**
 
