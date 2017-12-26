@@ -50,10 +50,14 @@ program (.py) -> interpreter makes bytecode .pyc (compiled) -> 101110010001001
 
 1. What is a list comprehension? Why would you use one?
 
+1. What is an iterator? 
+<a href="http://anandology.com/python-practice-book/iterators.html"><img src="http://www.bogotobogo.com/python/images/python_iterators/iterable-vs-iterator.png
+"></a>
+
+
 1. What is a generator? What can it be used for?
 
 **1. What is inheritance?**
-
 <a href="http://www.trytoprogram.com/python-programming/python-inheritance/"><img src="http://www.trytoprogram.com/images/python-inheritance.jpg"></a>
 
 **1. What happens if you have an error in an ''__init__'' statement?**
