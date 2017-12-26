@@ -126,12 +126,12 @@ In console you will find "ZeroDivisionError: division by zero".
 <a href="https://www.programiz.com/python-programming/examples/swap-variables">more</a>
 
 1. What is the importance of reference counting?
+
 A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to them. Garbage collector
 
 <a href="https://docs.python.org/2.0/ext/refcountsInPython.html">more</a>
 
-1. Do functions (or methods) return something even if there isn't a `return`
-   statement? If so, what do they return?
+1. Do functions (or methods) return something even if there isn't a `return` statement? If so, what do they return?
 
 1. How do you reverse a list? Can you come up with at least three ways? 
 
