@@ -57,7 +57,9 @@ a ---> [1, 2] <--- b
 
 
 **1. What is a list comprehension? Why would you use one?**
- It can be used to construct lists in a very natural, easy way, like a mathematician is used to do.
+
+It can be used to construct lists in a very natural, easy way, like a mathematician is used to do.
+
 <a href="https://datasciencelab.wordpress.com/2014/01/08/list-comprehension-in-python/"><img src="https://datasciencelab.files.wordpress.com/2014/01/list1.jpg?w=830"></a>
 
 **1. What is an iterator?**
@@ -66,6 +68,7 @@ a ---> [1, 2] <--- b
 
 
 **1. What is a generator? What can it be used for?**
+
 Generators simplifies creation of iterators. A generator is a function that produces a sequence of results instead of a single value.
 
 <a href="http://anandology.com/python-practice-book/iterators.html#generators">more</a>
@@ -75,7 +78,9 @@ Generators simplifies creation of iterators. A generator is a function that prod
 <a href="http://www.trytoprogram.com/python-programming/python-inheritance/"><img src="http://www.trytoprogram.com/images/python-inheritance.jpg"></a>
 
 **1. What happens if you have an error in an ''__init__'' statement?**
+
 If you have no ''__init__.py'' - your package can't be identified as package.
+
 If an error in class -  class can't be called in code.
 
 <a href="https://docs.python.org/2/reference/datamodel.html#object.__init__">more</a>
