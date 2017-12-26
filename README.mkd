@@ -135,7 +135,7 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 - So, here it will stop the execution & return None.
 
-**1. How do you reverse a list? Can you come up with at least three ways? **
+**1. How do you reverse a list? Can you come up with at least three ways?**
 
 - L.reverse()
 - L[::-1]   *(Slicing Operator)*
@@ -143,7 +143,7 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 <a href="https://stackoverflow.com/questions/3940128/how-can-i-reverse-a-list-in-python">more</a>
 
-**1. How would you merge two sorted lists? They can be any length, or empty. **
+**1. How would you merge two sorted lists? They can be any length, or empty.**
 
 1) >l1.extend(l2)
 
