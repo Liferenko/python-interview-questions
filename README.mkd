@@ -175,3 +175,23 @@ for line in open(thefilepath).xreadlines(  ): count += 1
 **LIKE. What result you expecting with LIKE usage?**
 
 <a href="https://www.tutorialspoint.com/mysql/mysql-like-clause.htm">more</a>
+
+**Differentiate between CHAR_LENGTH and LENGTH**
+
+- CHAR_LENGTH, as the name suggests, returns the number of characters / character count. The LENGTH returns the number of bytes / bytes count. To count the Latin characters, both lengths are the same. To count Unicode and other encodings, the lengths are different.
+
+<a href="http://www.careerride.com/MySQL-CHAR_LENGTH.aspx">more</a>
+
+##Linux command
+
+**Tail**
+
+Show last 10 lines of file. If add -n NUMBER - it shows NUMBER lines of file.
+Tail is alternative of head.
+
+<a href="https://www.computerhope.com/unix/utail.htm">more</a>
+
+**PG**
+
+Just show 10 lines of file. Press Enter - here is another 10 lines...
+
