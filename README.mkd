@@ -195,3 +195,12 @@ Tail is alternative of head.
 
 Just show 10 lines of file. Press Enter - here is another 10 lines...
 
+## Git
+
+**How to change repository url in existing project on a server?**
+
+Check - git config --list
+
+Change - git remote set-url URL
+
+<a href="https://help.github.com/articles/changing-a-remote-s-url/">more</a>
