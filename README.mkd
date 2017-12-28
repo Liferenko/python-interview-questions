@@ -161,7 +161,7 @@ A remembers B. B remembers A. It's infinity cicle. Someone have to say "Stop" to
 
 Xreadlines!
 
-for line in open(thefilepath).xreadlines(  ): count += 1
+for line in open(thefilepath).xreadlines(): count += 1
 
 <a href="https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch04s07.html">more</a>
 
