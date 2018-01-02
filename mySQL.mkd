@@ -1,0 +1,15 @@
+##MySQL questions.
+
+**Indexing. What types and how to use?**
+
+<a href="https://www.tutorialspoint.com/mysql/mysql-indexes.htm">more</a>
+
+**LIKE. What result you expecting with LIKE usage?**
+
+<a href="https://www.tutorialspoint.com/mysql/mysql-like-clause.htm">more</a>
+
+**Differentiate between CHAR_LENGTH and LENGTH**
+
+- CHAR_LENGTH, as the name suggests, returns the number of characters / character count. The LENGTH returns the number of bytes / bytes count. To count the Latin characters, both lengths are the same. To count Unicode and other encodings, the lengths are different.
+
+<a href="http://www.careerride.com/MySQL-CHAR_LENGTH.aspx">more</a>
