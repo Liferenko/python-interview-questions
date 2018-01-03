@@ -1,4 +1,16 @@
 ##MySQL questions.
+**How to join related tables?**
+2 types: inner and outer
+
+<a href="https://www.khanacademy.org/computer-programming/sql-join-on-tables/5409956539006976
+">try</a>
+
+<a href="http://www.sqlbook.com/sql/sql-inner-join-examples-and-explanations/
+">more</a>
+
+**Aggregating data**
+
+SUM(), MAX(), MIN()
 
 **Indexing. What types and how to use?**
 
