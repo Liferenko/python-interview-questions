@@ -12,6 +12,9 @@
 
 SUM(), MAX(), MIN()
 
+**What is AUTOINCREMENT and when to use it?**
+
+-
 
 **Indexing. What types and how to use?**
 
