@@ -12,6 +12,7 @@
 
 SUM(), MAX(), MIN()
 
+
 **Indexing. What types and how to use?**
 
 <a href="https://www.tutorialspoint.com/mysql/mysql-indexes.htm">more</a>
