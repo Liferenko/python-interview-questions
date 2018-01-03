@@ -16,6 +16,18 @@ SUM(), MAX(), MIN()
 
 -
 
+**Subqueries**
+'SELECT column-names
+  FROM table-name1
+ WHERE value IN (SELECT column-name
+                   FROM table-name2 
+                  WHERE condition)'
+                  
+<a href="http://www.dofactory.com/sql/subquery">more</a>
+
+<a href="https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/querying-in-subqueries
+">try</a>
+
 **Indexing. What types and how to use?**
 
 <a href="https://www.tutorialspoint.com/mysql/mysql-indexes.htm">more</a>
