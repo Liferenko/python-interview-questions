@@ -16,6 +16,18 @@ SUM(), MAX(), MIN()
 
 -
 
+**CASE. How to use**
+
+SELECT something, something2
+CASE
+    WHEN ___ THEN "____"
+    WHEN ___ THEN "___"
+    ELSE "___"
+END
+FROM
+
+<a href="https://www.w3schools.com/sql/func_mysql_case.asp">more</a>
+
 **Subqueries**
 'SELECT column-names
   FROM table-name1
