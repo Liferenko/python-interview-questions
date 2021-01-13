@@ -53,3 +53,16 @@ FROM
 - CHAR_LENGTH, as the name suggests, returns the number of characters / character count. The LENGTH returns the number of bytes / bytes count. To count the Latin characters, both lengths are the same. To count Unicode and other encodings, the lengths are different.
 
 <a href="http://www.careerride.com/MySQL-CHAR_LENGTH.aspx">more</a>
+
+**What is sharding? What the difference between particioning?**
+It is table separating: horizontal (better when you need whole rows of data) and vertical (better for column data needs)
+Most of times sharding is good for working with multiple instances (when DB is working on more then one machine), while particioning fits to single-instance-DB
+
+[source](https://hazelcast.com/glossary/sharding/)
+
+**What sharding methods do you know?**
+Hash sharding and range sharding.
+Range means "id > 100 AND id <= 1000", "id > 1000 AND id <= 2000" etc
+Hash means "hash contains NNNN", "hash contains XYZXYZ", "hash contains 717171"
+
+[source](https://blog.yugabyte.com/how-data-sharding-works-in-a-distributed-sql-database/)
