@@ -65,4 +65,5 @@ Hash sharding and range sharding.
 Range means "id > 100 AND id <= 1000", "id > 1000 AND id <= 2000" etc
 Hash means "hash contains NNNN", "hash contains XYZXYZ", "hash contains 717171"
 
-[source](https://blog.yugabyte.com/how-data-sharding-works-in-a-distributed-sql-database/)
+[source](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/)
+
