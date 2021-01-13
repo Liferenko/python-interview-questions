@@ -165,4 +165,12 @@ for line in open(thefilepath).xreadlines(): count += 1
 
 <a href="https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch04s07.html">more</a>
 
+--- 
+# SQL
+**What is sharding? What the difference between particioning?**
+It is table separating: horizontal (better when you need whole rows of data) and vertical (better for column data needs)
+
+Most of times sharding is good for working with multiple instances (when DB is working on more then one machine), while particioning fits to single-instance-DB
+
+[source](https://hazelcast.com/glossary/sharding/)
 
